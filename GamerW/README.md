@@ -15,9 +15,10 @@ tjctf{c3tus_del3tus_ur_m3ms_g0ne}
 Pada game tersebut dihimbau harus menggunakan chrome extension **Cetus**. Cetus dimanfaatkan untuk memanipulasi game tersebut. 
 Langkah pertama, masuk ke dalam shop. Yang dapat kita ubah adalah value dari gold itu sendiri. Search menggunakan Cetus dengan comparison operator **EQ** dan value type **f32**. 
 
-![Tampilan Cetus](./cetus.png)
 
-Setelah dicari, akan didapatkan kode untuk gold adalah : `0x02111f3c`. Kemudian bookmark dan ubah value goldnya menjadi banyak untuk membeli semua yang ada di shop. 
+
+Setelah dicari, akan didapatkan kode untuk gold adalah : `0x02111f3c`. Kemudian bookmark dan ubah value goldnya menjadi banyak untuk membeli semua yang ada di shop.  
+ 
 Level 1 akan melawan 1 monster hijau yang bisa diselesaikan tanpa menggunakan cheat apapun.
 
 
