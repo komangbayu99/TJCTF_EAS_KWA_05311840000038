@@ -1,4 +1,4 @@
-# Ling Ling - 10 points
+# Ling Ling 
 ## Deskripsi
 
 Who made this meme? 
