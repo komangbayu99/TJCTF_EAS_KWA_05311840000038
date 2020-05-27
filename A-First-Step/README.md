@@ -1,4 +1,4 @@
-# A First Step - 5 point
+# A First Step 
 ## Description
 
 Every journey has to start somewhere -- this one starts here (probably). \
