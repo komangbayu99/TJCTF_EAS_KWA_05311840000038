@@ -10,4 +10,5 @@ Nrp     : 05311840000038
 - [Censorship](./Censorship/README.md) 
 - [ChordEncoder](./ChordEncoder/README.md)
 - [Discord](./Discord/README.md)
-- [GamerW](./GamerW/README.md)
+- [GamerW](./GamerW/README.md) 
+- [IsThisCrypto](./IsThisCrypto/README.md)
