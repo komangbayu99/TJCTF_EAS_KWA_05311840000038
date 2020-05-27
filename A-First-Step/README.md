@@ -1,5 +1,5 @@
 # A First Step 
-## Deskrips
+## Deskripsi
 
 Every journey has to start somewhere -- this one starts here (probably). \
 The first flag is ```tjctf{so0p3r_d0oper_5ecr3t}.``` Submit it to get your first points!
@@ -10,6 +10,6 @@ The first flag is ```tjctf{so0p3r_d0oper_5ecr3t}.``` Submit it to get your first
 tjctf{so0p3r_d0oper_5ecr3t}
 ```
 
-## Cara Pengerjaan / solusi
+## Cara Pengerjaan / Penyelesaian
 
 Flag sudah tertera pada soalnya.
