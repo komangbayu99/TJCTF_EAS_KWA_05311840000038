@@ -11,4 +11,5 @@ Nrp     : 05311840000038
 - [ChordEncoder](./ChordEncoder/README.md)
 - [Discord](./Discord/README.md)
 - [GamerW](./GamerW/README.md) 
-- [IsThisCrypto](./IsThisCrypto/README.md)
+- [IsThisCrypto](./IsThisCrypto/README.md) 
+- [Gym](./Gym/README.md)
