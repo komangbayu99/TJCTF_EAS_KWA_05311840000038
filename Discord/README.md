@@ -13,4 +13,4 @@ tjctf{we_love_wumpus}
 
 Join grup discord dari TJCTF 2020 dan terdapat gambar yang menunjukkan ke flagnya. Flag tersebut harus dilihat dengan dark mode atau black background.
 
-![image](./flag.png)
+
