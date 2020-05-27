@@ -9,3 +9,4 @@ Nrp     : 05311840000038
 - [Circles](./Circles/README.md) 
 - [Censorship](./Censorship/README.md) 
 - [ChordEncoder](./ChordEncoder/README.md)
+- [Discord](./Discord/README.md)
