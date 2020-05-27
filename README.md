@@ -6,4 +6,5 @@ Nrp     : 05311840000038
 
 - [A First Step](./A-First-Step/README.md)   
 - [BrokenButton](./BrokenButton/README.md) 
-- [Circles](./Circles/README.md)
+- [Circles](./Circles/README.md) 
+- [Censorship](./Censorship/README.md)
