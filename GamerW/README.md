@@ -4,13 +4,13 @@
 
 Can you figure out how to [cheat](https://gamer_w.tjctf.org/) the system? Grab his hat to prove your victory!
 
-## Flag
+## Flag dari GamerW
 
 ```
 tjctf{c3tus_del3tus_ur_m3ms_g0ne}
 ```
 
-## Solution
+## Cara kerja / Penyelesaian
 
 Pada game tersebut dihimbau harus menggunakan chrome extension **Cetus**. Cetus dimanfaatkan untuk memanipulasi game tersebut. 
 Langkah pertama, masuk ke dalam shop. Yang dapat kita ubah adalah value dari gold itu sendiri. Search menggunakan Cetus dengan comparison operator **EQ** dan value type **f32**. 
